@@ -1,0 +1,29 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    overflow: none;
+}
+
+.header, .footer {
+    background-color: #1F2937;
+}
+
+.quote {
+    background-color: #EFE7EB;
+    font-size: 36px;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.header {
+    
+}
+
+.footer {
+    flex:0
+}
